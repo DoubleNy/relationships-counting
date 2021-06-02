@@ -1,0 +1,6 @@
+./webapp/node-modules
+.idea
+
+./server/venv
+./server/files
+./server/.idea
