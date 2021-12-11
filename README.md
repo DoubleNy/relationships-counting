@@ -1,4 +1,4 @@
-# relationships-counting
+# Treebank grammar relationships counting
 
 1. Load an XML treebank file.
 
